@@ -1,0 +1,12 @@
+{
+    "name": "root/composer",
+    "authors": [
+        {
+            "name": "Alex",
+            "email": "alex@alexanet.ty"
+        }
+    ],
+    "require": {
+        "swiftmailer/swiftmailer": "^6.2"
+    }
+}
